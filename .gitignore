@@ -5,3 +5,5 @@ venv/
 .venv/
 
 backend/config.py
+.env   
+backend/config.py 
